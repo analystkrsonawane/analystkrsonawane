@@ -1,4 +1,4 @@
-👋 Hi, I’m Karan
+👋 Hi, I’m Kiran
 👀 Interested in SQL, Python, SAS programming, and data analytics—love turning data into actionable insights!
 🌱 I’m currently learning advanced SQL techniques and data visualization tools like Power BI.
 💞️ I’m looking to collaborate on projects related to data analysis, SQL development, and credit risk modeling.
